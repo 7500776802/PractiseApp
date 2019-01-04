@@ -1,0 +1,32 @@
+// .container-fluid{
+//     height:80px;
+// }
+// .navbar-brand{
+// margin-left: 88px !important;
+// }
+// .nav navbar-nav
+// {
+
+// margin-left: 20% !important;
+// padding: 20% !important;
+
+
+
+.nav-list{
+    list-style: none;
+    margin-left:431px;
+    & a{
+        color:black;
+    }
+}
+
+.justify-content-end{
+   
+     & a{
+
+        color: black;
+        margin-top: -19px;
+
+     }
+
+}

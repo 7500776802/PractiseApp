@@ -1,0 +1,38 @@
+.search-container{
+    display:flex;
+    width:100%;
+    .btn-location{
+        width:20%;
+        background: #fff;
+        border: 0px;
+        border-right:1px solid #ced4ac;
+    }
+    .btn-specialities{
+        width:25%;
+         background: #fff;
+         border: none;
+         border-right:1px solid #ced4ac;
+        }
+    .btn-insurance{
+        width:25%;
+        background: #fff;
+        border: 0px;
+        border-right:1px solid #ced4ac;
+    }
+    .search-specialist-btn{
+        width:30%;
+        height: 40px;
+        border: 0px;
+      background: #fff;
+    }
+}
+.search-btn{
+    text-align: center;
+    margin: 0 auto;
+    padding: 8px 133px;
+    border-radius: 30px;
+    border: 0px;
+    background:blueviolet;
+    
+}
+
